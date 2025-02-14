@@ -36,7 +36,7 @@ bash_fundamentals/
 ### 1. Clonar el Repositorio
 Clona el repositorio desde GitHub Classroom:
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/CI679/fundamentos-de-bash-script-m-balderrama
 cd bash_scripting
 ```
 
@@ -66,10 +66,10 @@ Donde `argumento1` y `argumento2` pueden ser valores utilizados en las pruebas d
 
 ## Repositorio
 
-Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí](<URL_DEL_REPOSITORIO>).
+Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio https://github.com/CI679/fundamentos-de-bash-script-m-balderrama
 
 ---
 
 ## Autor
 
-<Coloca aquí tu nombre y matrícula>
+Mauricio Antonio Balderrama Chaparro 367582
